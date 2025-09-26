@@ -1,4 +1,4 @@
-# 📦 Amazon-Delivery-GeoAnalytics
+# 📦 Amazon Delivery Geo-Analytics
 This is a data science and machine learning project that analyzes delivery geo-data, builds predictive models, and provides an interactive dashboard with real-time delivery time predictions. Developed during the Tuwaiq Academy Data Science & ML Bootcamp (Week 3 Project).
 
 ---
