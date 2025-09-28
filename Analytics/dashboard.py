@@ -150,7 +150,7 @@ data = load_data()
 
 # Sidebar for dataset describtion and filters and information
 with st.sidebar:
-    # st.image("delivery-man_5637272.png", width=100)
+    st.image("delivery-man_5637272.png", width=100)
     filters_tab, about_tab = st.tabs(["Filters", "About",])
 
     # Sidebar filters
